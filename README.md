@@ -1,23 +1,32 @@
-# 🚀 Odyssey
+# 🚀 Odyssey 2K26 — Journey to Innovation
 
-Welcome to Odyssey — our hackathon journey of innovation,
-creativity, and technology.
+Odyssey 2K26 is a hackathon organized by the **BCET Student Community, Falcon**, to foster innovation, creativity, and technical excellence among aspiring developers, engineers, and problem-solvers.
 
-This repository contains our project development,
-implementation, and experiments as we transform ideas
-into practical solutions.
+The hackathon provides a collaborative platform for participants to transform innovative ideas into practical, technology-driven solutions that address real-world challenges. By encouraging teamwork, critical thinking, and hands-on development, Odyssey empowers participants to explore emerging technologies, showcase their technical capabilities, and develop impactful solutions.
+
+More than just a competition, Odyssey is an opportunity to learn, collaborate, experiment, and push the boundaries of innovation while connecting passionate minds through technology.
+
+**Our mission is to inspire creativity, encourage collaboration, and empower the next generation of innovators to turn ideas into reality.**
+
+💡 *Imagine. Innovate. Build. Inspire.*
 
 ## 🎯 Objective
-To solve real-world challenges through innovative thinking,
-collaboration, and technology.
+
+The objective of Odyssey 2K26 is to provide a dynamic platform for students to showcase their technical skills, creativity, and problem-solving abilities by developing innovative solutions to real-world challenges. Organized by the BCET Student Community, Falcon, the hackathon aims to promote collaboration, encourage experimentation with emerging technologies, and bridge the gap between theoretical knowledge and practical implementation.
+
+Through teamwork, innovation, and hands-on development, Odyssey seeks to nurture future-ready talent, inspire entrepreneurial thinking, and empower participants to transform their ideas into impactful technological solutions.
 
 ## 🛠️ Built With
-- Technology-driven innovation
-- Collaborative development
-- Creative problem-solving
+
+Odyssey 2K26 encourages participants to explore modern technologies, apply their technical knowledge, and develop practical solutions to real-world challenges. Teams are free to choose the tools, programming languages, frameworks, and platforms that best suit their project ideas and objectives.
 
 ## 👥 Hackathon Project
-Developed as part of Odyssey.
+
+This repository contains the project submissions developed by participating teams during Odyssey 2K26, organized by the **BCET Student Community, Falcon**.
+
+Each team has been assigned a dedicated folder to upload and maintain its project files, documentation, and related resources. These submissions represent the creativity, collaboration, technical skills, and problem-solving abilities of the participants.
+
+Through this initiative, we aim to encourage innovation, promote collaborative development, and showcase solutions designed to address real-world problems.
 
 ---
 💡 Imagine. Innovate. Build. Inspire.

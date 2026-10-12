@@ -22,23 +22,6 @@ Developed as part of Odyssey.
 ---
 💡 Imagine. Innovate. Build. Inspire.
 
-📜 Odyssey Hackathon — Rules & Regulations
----
-Submit Only Your Work: Upload only your own project files and related contributions to your designated folder.
-Respect Other Teams: Never modify, delete, overwrite, or access other teams’ files without permission.
-Follow Instructions: Push your files and project components only to the designated folders or branches as instructed by the organizers.
-Maintain Code Integrity: Do not upload unrelated, malicious, or unauthorized files.
-Originality: Plagiarism and unauthorized copying of other teams’ work are prohibited.
-Security: Do not expose passwords, API keys, tokens, or other sensitive information.
-Documentation: Include a clear README with your project overview, setup instructions, and technologies used.
-Version Control: Use meaningful commit messages and maintain an organized repository structure.
-Professional Conduct: Respect fellow participants, mentors, judges, and organizers.
-Follow Deadlines: Complete submissions within the announced timeline.
-No Unauthorized Changes: Do not alter repository settings, shared configurations, or other participants’ contributions.
-Organizer Authority: Follow all additional instructions issued by the hackathon organizers. Violations may result in disqualification.
----
-⚠️ Mandatory: When instructed to push or upload your project, submit only your own files to the specified location. Any interference with other participants’ work is strictly prohibited.
-
 
 # 📤 Odyssey Hackathon — Project Submission Guide
 

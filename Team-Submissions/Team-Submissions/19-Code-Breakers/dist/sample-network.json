@@ -1,0 +1,177 @@
+{
+  "version": 1,
+  "name": "Learning campus · illustrative network",
+  "provenance": "Invented demonstration data. Replace with your own surveyed paths before real use.",
+  "nodes": [
+    {
+      "id": "west",
+      "name": "West gate",
+      "x": 80,
+      "y": 240
+    },
+    {
+      "id": "plaza",
+      "name": "Central plaza",
+      "x": 260,
+      "y": 240
+    },
+    {
+      "id": "library",
+      "name": "Library entrance",
+      "x": 470,
+      "y": 240
+    },
+    {
+      "id": "east",
+      "name": "East gate",
+      "x": 680,
+      "y": 240
+    },
+    {
+      "id": "north",
+      "name": "North entrance",
+      "x": 260,
+      "y": 90
+    },
+    {
+      "id": "garden",
+      "name": "Garden junction",
+      "x": 470,
+      "y": 90
+    },
+    {
+      "id": "south",
+      "name": "South entrance",
+      "x": 260,
+      "y": 420
+    },
+    {
+      "id": "cafe",
+      "name": "Café courtyard",
+      "x": 470,
+      "y": 420
+    }
+  ],
+  "edges": [
+    {
+      "id": "west-plaza",
+      "from": "west",
+      "to": "plaza",
+      "name": "Main approach",
+      "metres": 180,
+      "stairs": 0,
+      "crossings": 1,
+      "evidence": "Sample attribute"
+    },
+    {
+      "id": "library-steps",
+      "from": "plaza",
+      "to": "library",
+      "name": "Library steps",
+      "metres": 210,
+      "stairs": 2,
+      "crossings": 0,
+      "evidence": "Sample attribute"
+    },
+    {
+      "id": "west-north",
+      "from": "west",
+      "to": "north",
+      "name": "North walkway",
+      "metres": 230,
+      "stairs": 0,
+      "crossings": 0,
+      "evidence": "Sample attribute"
+    },
+    {
+      "id": "north-garden",
+      "from": "north",
+      "to": "garden",
+      "name": "Garden walk",
+      "metres": 210,
+      "stairs": 0,
+      "crossings": 0,
+      "evidence": "Sample attribute"
+    },
+    {
+      "id": "garden-library",
+      "from": "garden",
+      "to": "library",
+      "name": "Library garden entrance",
+      "metres": 140,
+      "stairs": 0,
+      "crossings": 0,
+      "evidence": "Sample attribute"
+    },
+    {
+      "id": "plaza-south",
+      "from": "plaza",
+      "to": "south",
+      "name": "South crossing",
+      "metres": 180,
+      "stairs": 0,
+      "crossings": 1,
+      "evidence": "Sample attribute"
+    },
+    {
+      "id": "south-cafe",
+      "from": "south",
+      "to": "cafe",
+      "name": "Café walk",
+      "metres": 210,
+      "stairs": 0,
+      "crossings": 0,
+      "evidence": "Sample attribute"
+    },
+    {
+      "id": "cafe-library",
+      "from": "cafe",
+      "to": "library",
+      "name": "Library south entrance",
+      "metres": 180,
+      "stairs": 0,
+      "crossings": 0,
+      "evidence": "Sample attribute"
+    },
+    {
+      "id": "garden-east",
+      "from": "garden",
+      "to": "east",
+      "name": "East garden approach",
+      "metres": 250,
+      "stairs": 0,
+      "crossings": 1,
+      "evidence": "Sample attribute"
+    },
+    {
+      "id": "library-east",
+      "from": "library",
+      "to": "east",
+      "name": "East library approach",
+      "metres": 210,
+      "stairs": 0,
+      "crossings": 1,
+      "evidence": "Sample attribute"
+    },
+    {
+      "id": "cafe-east",
+      "from": "cafe",
+      "to": "east",
+      "name": "Service passage",
+      "metres": 260,
+      "stairs": null,
+      "crossings": null,
+      "evidence": "Attributes unknown in the sample"
+    },
+    {
+      "id": "plaza-garden",
+      "from": "plaza",
+      "to": "garden",
+      "name": "Garden ramp approach",
+      "metres": 250,
+      "stairs": 0,
+      "crossings": 0,
+      "evidence": "Sample attribute"
+    }
+  ]
+}

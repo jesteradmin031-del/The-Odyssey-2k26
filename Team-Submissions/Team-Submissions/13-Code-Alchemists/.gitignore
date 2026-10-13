@@ -1,0 +1,20 @@
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Build outputs
+dist/
+build/
+
+# Local databases
+*.db
